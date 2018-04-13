@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">reports</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="roster">Roster</string>
+    <string name="activity">Activity</string>
+    <string name="skills">Skills</string>
+    <string name="assessments">Assessments</string>
+
+    <!-- tab names -->
+    <string name="tab_label1">roster</string>
+    <string name="tab_label2">activity</string>
+    <string name="tab_label3">skills</string>
+    <string name="tab_label4">assessments</string>
+</resources>
